@@ -1,5 +1,5 @@
 # respuestas = {
-#     "hola": "¡Hola! ¿En qué puedo ayudarte?",
+#     "holax": "¡Hola! ¿En qué puedo ayudarte?",
 #     "como estas": "Estoy bien, gracias por preguntar.",
 #     "adios": "¡Hasta luego! Que tengas un buen día.",
 # }
